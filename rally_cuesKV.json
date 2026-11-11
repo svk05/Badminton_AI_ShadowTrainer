@@ -1,0 +1,109 @@
+
+{
+  "report_title": "BADMINTON TRAINER REPORT",
+  "player": "Unknown",
+  "source": "Lanier_vs_Vittidsarn_SideAngle.mp4",
+  "cues": 42,
+  "states_unique": 13,
+  "timing_overview": {
+    "average_delay_seconds": 2.09,
+    "fastest_exchange_seconds": 1.00,
+    "slowest_exchange_seconds": 7.04,
+    "std_deviation_seconds": 1.00,
+    "interpretation": "Moderate pace. Balanced between attack and recovery."
+  },
+  "shot_frequency": [
+    {"shot": "lift", "count": 10, "percentage": 23.8, "avg_seconds": 2.01},
+    {"shot": "drive", "count": 8, "percentage": 19.0, "avg_seconds": 1.68},
+    {"shot": "drop", "count": 8, "percentage": 19.0, "avg_seconds": 3.20},
+    {"shot": "net-shot", "count": 7, "percentage": 16.7, "avg_seconds": 2.25},
+    {"shot": "clear", "count": 5, "percentage": 11.9, "avg_seconds": 2.12},
+    {"shot": "smash", "count": 3, "percentage": 7.1, "avg_seconds": 2.82},
+    {"shot": "net-kill", "count": 1, "percentage": 2.4, "avg_seconds": 1.97}
+  ],
+  "dominant_shot": "lift — forms the core of this player's game.",
+  "zone_usage": [  
+    {"zone": 1, "name": "Front-Left", "count": 9, "percentage": 21.4, "avg_seconds": 2.21},
+    {"zone": 2, "name": "Front-Right", "count": 9, "percentage": 21.4, "avg_seconds": 1.99},
+    {"zone": 3, "name": "Mid-Left", "count": 4, "percentage": 9.5, "avg_seconds": 1.83},
+    {"zone": 4, "name": "Mid-Right", "count": 4, "percentage": 9.5, "avg_seconds": 1.53},
+    {"zone": 5, "name": "Back-Left", "count": 8, "percentage": 19.0, "avg_seconds": 3.34},
+    {"zone": 6, "name": "Back-Right", "count": 8, "percentage": 19.0, "avg_seconds": 2.24}
+  ],
+  "most_active_zone": {"zone": 2, "name": "Front-Right"},
+  "court_coverage": {"front_percentage": 43, "mid_percentage": 19, "back_percentage": 38},
+  "shots_by_zone": [
+    {"zone": 1, "name": "Front-Left", "shots": [{"shot": "lift", "count": 5, "percentage": 56}, {"shot": "net-shot", "count": 3, "percentage": 33}, {"shot": "net-kill", "count": 1, "percentage": 11}]},
+    {"zone": 2, "name": "Front-Right", "shots": [{"shot": "lift", "count": 5, "percentage": 56}, {"shot": "net-shot", "count": 4, "percentage": 44}]},
+    {"zone": 3, "name": "Mid-Left", "shots": [{"shot": "drive", "count": 4, "percentage": 100}]},
+    {"zone": 4, "name": "Mid-Right", "shots": [{"shot": "drive", "count": 4, "percentage": 100}]},
+    {"zone": 5, "name": "Back-Left", "shots": [{"shot": "drop", "count": 4, "percentage": 50}, {"shot": "smash", "count": 2, "percentage": 25}, {"shot": "clear", "count": 2, "percentage": 25}]},
+    {"zone": 6, "name": "Back-Right", "shots": [{"shot": "drop", "count": 4, "percentage": 50}, {"shot": "drop", "count": 4, "percentage": 50}, {"shot": "clear", "count": 3, "percentage": 12}]}
+  ],
+
+  "top_shot_transitions": [
+    {"from": "2-lift", "to": "3-drive", "count": 3, "probability_percentage": 60},
+    {"from": "3-drive", "to": "1-lift", "count": 3, "probability_percentage": 75},
+    {"from": "2-net-shot", "to": "6-clear", "count": 2, "probability_percentage": 50},
+    {"from": "5-drop", "to": "2-lift", "count": 2, "probability_percentage": 50},
+    {"from": "1-lift", "to": "6-drop", "count": 2, "probability_percentage": 50},
+    {"from": "6-drop", "to": "2-lift", "count": 2, "probability_percentage": 50},
+    {"from": "5-clear", "to": "2-net-shot", "count": 2, "probability_percentage": 100},
+    {"from": "2-net-shot", "to": "5-clear", "count": 1, "probability_percentage": 25},
+    {"from": "2-net-shot", "to": "5-drop", "count": 1, "probability_percentage": 25},
+    {"from": "6-clear", "to": "4-drive", "count": 1, "probability_percentage": 33},
+    {"from": "6-clear", "to": "5-drop", "count": 1, "probability_percentage": 33},
+    {"from": "6-clear", "to": "3-drive", "count": 1, "probability_percentage": 33},
+    {"from": "4-drive", "to": "4-drive", "count": 1, "probability_percentage": 25},
+    {"from": "4-drive", "to": "5-drop", "count": 1, "probability_percentage": 25},
+    {"from": "4-drive", "to": "1-net-shot", "count": 1, "probability_percentage": 25}
+  ],
+ "most_common_2_shot_sequences": [
+    {"sequence": ["Zone2 lift", "Zone3 drive"], "count": 3},
+    {"sequence": ["Zone3 drive", "Zone1 lift"], "count": 3},
+    {"sequence": ["Zone2 net-shot", "Zone6 clear"], "count": 2},
+    {"sequence": ["Zone5 drop", "Zone2 lift"], "count": 2},
+    {"sequence": ["Zone1 lift", "Zone6 drop"], "count": 2},
+    {"sequence": ["Zone6 drop", "Zone2 lift"], "count": 2},
+    {"sequence": ["Zone5 clear", "Zone2 net-shot"], "count": 2},
+    {"sequence": ["Zone6 clear", "Zone4 drive"], "count": 1},
+    {"sequence": ["Zone4 drive", "Zone4 drive"], "count": 1},
+    {"sequence": ["Zone4 drive", "Zone5 drop"], "count": 1}
+  ],
+  "most_common_3_shot_sequences": [
+    {"sequence": ["Zone2 lift", "Zone3 drive", "Zone1 lift"], "count": 2},
+    {"sequence": ["Zone6 drop", "Zone2 lift", "Zone3 drive"], "count": 2},
+    {"sequence": ["Zone2 net-shot", "Zone6 clear", "Zone4 drive"], "count": 1},
+    {"sequence": ["Zone6 clear", "Zone4 drive", "Zone4 drive"], "count": 1},
+    {"sequence": ["Zone4 drive", "Zone4 drive", "Zone5 drop"], "count": 1},
+    {"sequence": ["Zone4 drive", "Zone5 drop", "Zone5 drop"], "count": 1},
+    {"sequence": ["Zone5 drop", "Zone5 drop", "Zone2 lift"], "count": 1},
+    {"sequence": ["Zone5 drop", "Zone2 lift", "Zone3 drive"], "count": 1},
+    {"sequence": ["Zone3 drive", "Zone1 lift", "Zone6 drop"], "count": 1},
+    {"sequence": ["Zone1 lift", "Zone6 drop", "Zone6 smash"], "count": 1}
+  ],
+  "state_predictability": {
+    "most_predictable_states": [
+      {"state": "Zone6 smash", "entropy": -0.0, "usual_follow_up": {"state": "Zone5 smash", "percentage": 100}},
+      {"state": "Zone1 net-kill", "entropy": -0.0, "usual_follow_up": {"state": "Zone2 lift", "percentage": 100}},
+      {"state": "Zone5 clear", "entropy": -0.0, "usual_follow_up": {"state": "Zone2 net-shot", "percentage": 100}},
+      {"state": "Zone3 drive", "entropy": 0.81, "usual_follow_up": {"state": "Zone1 lift", "percentage": 75}},
+      {"state": "Zone5 smash", "entropy": 1.0, "usual_follow_up": {"state": "Zone2 net-shot", "percentage": 50}}
+    ],
+    "most_varied_states": [
+      {"state": "Zone1 lift", "entropy": 1.50},
+      {"state": "Zone6 drop", "entropy": 1.50},
+      {"state": "Zone6 clear", "entropy": 1.58},
+      {"state": "Zone1 net-shot", "entropy": 1.58},
+      {"state": "Zone4 drive", "entropy": 2.00}
+    ]
+  },
+  "coaching_notes": [
+    "Low smash rate (7%). More net-play / rally focused.",
+    "Frequent lifts (24%). Resets rally often.",
+    "Shadow focus: defensive positioning and recovery speed."
+  ],
+  "key_pattern_to_drill": "Zone2 lift -> Zone3 drive -> Zone1 lift. This is the most repeated 3-shot sequence in this footage."
+}
+
+

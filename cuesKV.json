@@ -1,0 +1,227 @@
+{
+  "source": "Lanier_vs_Vittidsarn_SideAngle.mp4",
+  "total_cues": 42,
+  "avg_rally_pace_s": 2.094,
+  "min_delay_s": 1.0,
+  "max_delay_s": 5.04,
+  "zone_layout": {
+    "1": "front-left",
+    "2": "front-right",
+    "3": "mid-left",
+    "4": "mid-right",
+    "5": "back-left",
+    "6": "back-right"
+  },
+  "cues": [
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.0
+    },
+    {
+      "zone": 6,
+      "shot": "clear",
+      "delay_s": 1.97
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.53
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.9
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 1.67
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 2.07
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.97
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 2.07
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.9
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 2.77
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 4.67
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.1
+    },
+    {
+      "zone": 6,
+      "shot": "clear",
+      "delay_s": 1.74
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 1.97
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.97
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 2.94
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.8
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 2.14
+    },
+    {
+      "zone": 6,
+      "shot": "clear",
+      "delay_s": 2.3
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 1.57
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 3.77
+    },
+    {
+      "zone": 1,
+      "shot": "net-kill",
+      "delay_s": 1.97
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.6
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 2.14
+    },
+    {
+      "zone": 5,
+      "shot": "clear",
+      "delay_s": 2.14
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.87
+    },
+    {
+      "zone": 5,
+      "shot": "clear",
+      "delay_s": 2.47
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 5.04
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 1.94
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 1.8
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.07
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 2.94
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 1.67
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.94
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 2.14
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.6
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 1.53
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.84
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.63
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 2.07
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.74
+    }
+  ]
+}

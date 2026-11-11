@@ -1,0 +1,99 @@
+
+============================================================
+  PLAYER COMPARISON & COACHING REPORT
+============================================================
+  Player A : Shi  (score: 6.69/10)
+  Player B : Me  (score: 6.96/10)
+
+  Identified PRO     : Me
+  Identified AMATEUR : Shi
+
+  ──────────────────────────────────────────────────
+  SKILL SCORES  (0-10 per dimension)
+  ──────────────────────────────────────────────────
+    Dimension                          Me           Shi       Gap
+    ──────────────────────── ────────────  ────────────  ────────
+    Rally Pace                        2.7           4.4      -1.7 ◄
+    Timing Consistency                4.4           4.7      -0.2
+    Shot Variety                      9.5           8.6      +0.9
+    Court Coverage                    8.8           9.2      -0.4
+    Attack Rate                       7.3           7.0      +0.2
+    Pattern Diversity                 3.0           2.8      +0.2
+    Net Game                         10.0           6.9      +3.1 ◄
+    Back Court                       10.0          10.0      +0.0
+  ════════════════════════════════════════════════════════
+    OVERALL                           7.0           6.7      +0.3
+
+  ──────────────────────────────────────────────────
+  TIMING COMPARISON
+  ──────────────────────────────────────────────────
+    Metric                                 Me           Shi
+    ──────────────────────────── ────────────  ────────────
+    Avg delay (s)                        2.83          2.41
+    Fastest exchange (s)                 1.02          1.01
+    Slowest exchange (s)                 8.33          7.09
+    Std deviation (s)                    1.58          1.29
+
+  ──────────────────────────────────────────────────
+  SHOT USAGE COMPARISON
+  ──────────────────────────────────────────────────
+    Shot                   Me           Shi       Gap
+    ──────────── ────────────  ────────────  ────────
+    clear                9.1%          2.2%     +6.9%
+    drive                9.1%         19.8%    -10.7% ◄
+    drop                15.2%         11.0%     +4.2%
+    lift                21.2%         29.7%     -8.5% ◄
+    net-kill             9.1%          1.1%     +8.0%
+    net-shot            27.3%         19.8%     +7.5%
+    smash                9.1%         16.5%     -7.4%
+
+  ──────────────────────────────────────────────────
+  ZONE COVERAGE COMPARISON
+  ──────────────────────────────────────────────────
+    Zone                         Me           Shi       Gap
+    ────────────────── ────────────  ────────────  ────────
+    Front-Left                27.3%         12.1%    +15.2% ◄
+    Front-Right               30.3%         38.5%     -8.2%
+    Mid-Left                   6.1%         12.1%     -6.0%
+    Mid-Right                  3.0%          7.7%     -4.7%
+    Back-Left                 12.1%         14.3%     -2.2%
+    Back-Right                21.2%         15.4%     +5.8%
+
+  ──────────────────────────────────────────────────
+  PATTERNS IN Me's GAME NOT IN Shi's
+  ──────────────────────────────────────────────────
+    Zone6 smash      -> Zone2 lift        Me: 100%  Shi: 0%
+    Zone5 clear      -> Zone3 drive       Me: 100%  Shi: 0%
+    Zone3 drive      -> Zone6 clear       Me: 50%  Shi: 0%
+    Zone6 clear      -> Zone2 net-shot    Me: 50%  Shi: 0%
+    Zone6 clear      -> Zone1 net-shot    Me: 50%  Shi: 0%
+    Zone2 net-shot   -> Zone6 drop        Me: 50%  Shi: 0%
+    Zone5 drop       -> Zone2 lift        Me: 50%  Shi: 0%
+    Zone1 net-shot   -> Zone1 net-kill    Me: 33%  Shi: 0%
+
+============================================================
+  COACHING PLAN FOR SHI
+============================================================
+  Overall gap to close: 0.3 points
+
+
+  [1] 🟢 DEVELOP  —  SHOT PATTERNS
+      Gap    : After Zone6 smash, Me plays Zone2 lift 100% of the time — Shi only 0%
+      Fix    : Key pattern missing from your game: after a smash from Zone 6, the high-percentage next shot is a lift to Zone 2. Me uses this 100% of the time — it's a core pattern that creates pressure. Build this into muscle memory.
+      Drill  : During AI Coach sessions, when you see Zone6 smash called, mentally anticipate Zone2 lift next and pre-position.
+
+  [2] 🟢 DEVELOP  —  NET PLAY
+      Gap    : Shi net play 20.9% vs Me 36.4%
+      Fix    : Your net game is significantly weaker than Me's. Net play (36% of their game) is where rallies are won or lost at higher levels. Focus on tight net shots, deceptive tumbling shots, and net-kill reactions.
+      Drill  : Zone 1 and 2 in AI Coach — slow down to warm-up pace and focus on technique over speed for net zone shots.
+
+  ──────────────────────────────────────────────────
+  PRIORITY TRAINING PLAN  (what to work on first)
+  ──────────────────────────────────────────────────
+    1. Shot Patterns             — Key pattern missing from your game: after a smash from Zone ...
+    2. Net Play                  — Your net game is significantly weaker than Me's. Net play (3...
+
+    Key pattern to steal from Me:
+    Zone2 lift -> Zone6 smash -> Zone2 lift
+
+============================================================

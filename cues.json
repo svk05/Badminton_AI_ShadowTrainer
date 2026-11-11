@@ -1,0 +1,472 @@
+{
+  "source": "ML-generated from ShiYuQi_LowerAngle1.mp4",
+  "total_cues": 91,
+  "avg_rally_pace_s": 2.408,
+  "min_delay_s": 1.01,
+  "max_delay_s": 7.09,
+  "zone_layout": {
+    "1": "front-left",
+    "2": "front-right",
+    "3": "mid-left",
+    "4": "mid-right",
+    "5": "back-left",
+    "6": "back-right"
+  },
+  "cues": [
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 2.98
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.25
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.21
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 6.94
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.28
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 6.75
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.23
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.23
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 1.93
+    },
+    {
+      "zone": 2,
+      "shot": "net-kill",
+      "delay_s": 1.35
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 3.03
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 1.07
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 2.1
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.27
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.18
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 3.09
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.65
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 2.95
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 3.21
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.67
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.78
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.49
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.65
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 3.9
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 2.01
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.32
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 3.21
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.59
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.66
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 2.05
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.23
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 6.66
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.28
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.28
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 3.47
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 3.66
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.56
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 2.38
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.3
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 2.2
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.24
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 7.09
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.27
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.13
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 3.29
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 2.36
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 1.51
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 2.03
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.22
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.22
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.26
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 6.86
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.26
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.65
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.03
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 1.88
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.67
+    },
+    {
+      "zone": 6,
+      "shot": "clear",
+      "delay_s": 3.25
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.3
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.9
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.91
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.41
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.76
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.69
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 1.62
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 2.78
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 3.46
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 2.72
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.77
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 3.69
+    },
+    {
+      "zone": 6,
+      "shot": "clear",
+      "delay_s": 1.01
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.28
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.82
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.6
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.87
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 3.88
+    },
+    {
+      "zone": 1,
+      "shot": "lift",
+      "delay_s": 1.66
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 2.62
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.22
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 1.53
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 2.04
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.84
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.95
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 1.47
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 3.06
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 2.04
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 1.23
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.26
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.66
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 1.56
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.23
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "source": "Me1.mp4",
+  "total_cues": 33,
+  "avg_rally_pace_s": 2.127,
+  "min_delay_s": 1.0,
+  "max_delay_s": 4.33,
+  "zone_layout": {
+    "1": "front-left",
+    "2": "front-right",
+    "3": "mid-left",
+    "4": "mid-right",
+    "5": "back-left",
+    "6": "back-right"
+  },
+  "cues": [
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 1.0
+    },
+    {
+      "zone": 5,
+      "shot": "clear",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 1.61
+    },
+    {
+      "zone": 6,
+      "shot": "clear",
+      "delay_s": 2.05
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 2.38
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.95
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.38
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.65
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.54
+    },
+    {
+      "zone": 3,
+      "shot": "drive",
+      "delay_s": 1.65
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 5,
+      "shot": "smash",
+      "delay_s": 2.05
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.48
+    },
+    {
+      "zone": 6,
+      "shot": "smash",
+      "delay_s": 2.92
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 2.69
+    },
+    {
+      "zone": 5,
+      "shot": "drop",
+      "delay_s": 2.25
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 4.33
+    },
+    {
+      "zone": 6,
+      "shot": "clear",
+      "delay_s": 2.22
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 2.05
+    },
+    {
+      "zone": 2,
+      "shot": "net-kill",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 1.78
+    },
+    {
+      "zone": 1,
+      "shot": "net-kill",
+      "delay_s": 3.29
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 1.78
+    },
+    {
+      "zone": 1,
+      "shot": "net-kill",
+      "delay_s": 1.54
+    },
+    {
+      "zone": 2,
+      "shot": "net-shot",
+      "delay_s": 2.0
+    },
+    {
+      "zone": 6,
+      "shot": "drop",
+      "delay_s": 2.48
+    },
+    {
+      "zone": 2,
+      "shot": "lift",
+      "delay_s": 1.95
+    },
+    {
+      "zone": 4,
+      "shot": "drive",
+      "delay_s": 1.91
+    },
+    {
+      "zone": 1,
+      "shot": "net-shot",
+      "delay_s": 2.25
+    }
+  ]
+}
